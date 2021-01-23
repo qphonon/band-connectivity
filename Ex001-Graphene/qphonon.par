@@ -1,0 +1,38 @@
+#keyword title 'Graphene phonon dispersion'
+#keyword unit Ang eV AMU
+#keyword frequnit 1
+#keyword diffscheme 1
+#keyword ASR 2
+#keyword iradcut 1
+#keyword dynmat 1
+#keyword delta    0.01500
+#keyword LOTO 0
+#keyword evec 0
+#keyword qpoint    0.00000   0.00000   0.00000
+#keyword evecamp    4.00000
+#keyword paraamp     0.01500
+#keyword paranum 11
+#keyword visamp        3.00000
+#keyword visnum 15
+#keyword fcmulti 1
+#keyword storedyn 0
+#keyword gv 0
+#keyword gvscheme 0
+#keyword gvdelta    0.00000
+#keyword GP 0
+#keyword GPscheme -1
+#keyword positivedir 'xx'
+#keyword negativedir 'xx'
+#keyword GPeps    0.00000
+#keyword GPscalefactor    0.00000
+#keyword dynnstages 10
+#keyword dyndegentol   1.959d-11
+#
+# band connectivity
+#keyword bc 1
+#keyword bcdelta 0.03
+#keyword bcsubn 2
+#keyword bcminstage 4
+#keyword bcndeg 2
+#keyword bcndata 4
+#keyword bcdegentol 0.5
